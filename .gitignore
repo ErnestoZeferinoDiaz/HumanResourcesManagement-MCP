@@ -1,0 +1,16 @@
+node_modules/
+dist/
+*.log
+.env.*
+!.env.example
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
